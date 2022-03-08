@@ -7,8 +7,7 @@ Chinese spirits are distilled spirits with a long history, usually obtained thro
 
 In our datasets, the whole distillation process is divided into five stages from I to V, namely the initial distillate (stage I), the second distillate (stage II), the third distillate (stage III), the last distillate (stage IV), and the tail water (stage V). As the distillation time increases, the alcohol by volume (ABV) decreases, and the flavor gradually deteriorates, which means that the quality of spirits decreases. The overall and partial details of distillate bubbles in different distillation stages are shown below. 
 
-![avatar]("C:\Users\cmc\Desktop\Overall distillate bubble images in different distillation stages.tif")
-
+![avatar](Overall distillate bubble images in different distillation stages.png)
 
 
 
